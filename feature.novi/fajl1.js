@@ -1,0 +1,1 @@
+console.log("conslo log za fajl1");
